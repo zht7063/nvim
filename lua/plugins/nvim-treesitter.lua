@@ -7,7 +7,7 @@ return {
       ensure_installed = {
         "markdown",
         "markdown_inline", -- for inline code blocks
-        "Python",
+        "python",
         "cpp",
         "c",
         -- add other languages you want
