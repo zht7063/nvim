@@ -6,7 +6,7 @@ And if there are something to notice (of course, just for myself), I will write 
 
 ---
 
-## [Plugin] markdown highlight
+## [Plugin-helper] markdown highlight
 
 To make nvim highlight markdown grammer, we can choose plugin `nvim-treesitter/nvim-treesitter`, although it's not only for markdown grammer. And if we want a suport for enhanced markdown, use `preservim/vim-markdown`.
 
