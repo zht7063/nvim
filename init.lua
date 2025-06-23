@@ -3,7 +3,7 @@
 ----- ----- ----- -----
 -- import files.
 ----- ----- ----- -----
--- require("config.lazy")
+require("config.lazy")
 
 ----- ----- ----- -----
 -- Basic Settings
