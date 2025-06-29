@@ -15,4 +15,6 @@ vim.opt.tabstop = 4
 vim.opt.shiftwidth = 0
 -- Auto load extra changes
 vim.opt.autoread = true
-
+-- 修改默认分屏方向
+vim.opt.splitbelow = true
+vim.opt.splitright = true
